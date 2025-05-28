@@ -6,7 +6,7 @@
     <PackageProjectUrl>https://github.com/nickdodd79/AutoBogus</PackageProjectUrl>
     <PackageIcon>logo.png</PackageIcon>
     <RepositoryUrl>https://github.com/nickdodd79/AutoBogus</RepositoryUrl>
-    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <LangVersion>latest</LangVersion>
     <IncludeSymbols>true</IncludeSymbols>
